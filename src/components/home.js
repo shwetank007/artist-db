@@ -30,7 +30,7 @@ class Home extends Component {
         return (
             <div>
                 <Banner></Banner>
-                <ArtistsList allArtist={this.state.artists}></ArtistsList>
+                <ArtistsList allArtists={this.state.artists}></ArtistsList>
             </div>
         )
     }
