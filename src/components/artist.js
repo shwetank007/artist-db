@@ -31,7 +31,7 @@ class Artist extends Component {
                 <Header/>
                 <div className="artist-bio">
                     <div className="avatar">
-                        <span style={{background:`url('/images/cover/${this.state.artist.cover}.jpg') no-repeat`}}></span>
+                        <span style={{background:`url('/images/covers/${this.state.artist.cover}.jpg') no-repeat`}}></span>
                     </div>
                     <div className="bio">
                         <h3>{this.state.artist.name}</h3>
