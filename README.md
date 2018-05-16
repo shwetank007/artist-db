@@ -1,5 +1,11 @@
-It is a demo application which is used to learn the basic concepts of react and it's working.
+This is a demo react application made for learning purposes.
 
-The application is based on the udemy react tutorials.
+To run the following project. Follow these steps :-
 
-Sole purpose of this application is learning react.
+-> Clone the repo.
+
+-> Open Terminal and run npm install in the project folder.
+
+-> Run npm start to start the project. In a terminal window.
+
+-> Open another terminal window and run json-server --watch db.json --port=xxxx. To run the json-server.
